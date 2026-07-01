@@ -1,129 +1,239 @@
-Package: com.fiore.calculatorconverter
-Name: CalculatorConverter
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.fiore.calculatorconverter_1.0.1_iphoneos-arm.deb
-Size: 50624
-Section: Tweaks
-Maintainer: Nethra1n
-
-Package: com.dvntm.cc18
-Name: CC18
-Version: 0.0.3
-Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.dvntm.cc18_0.0.3_iphoneos-arm.deb
-Size: 4408
-Section: Tweaks
-Maintainer: Nethra1n
-
 Package: com.82flex.singlemute
-Name: SingleMute
 Version: 1.7
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.singlemute_1.7.deb
 Size: 27532
+MD5sum: d356d3c75bc7ab952d81e62af664818b
+SHA1: 23865092be62b867989241bcbb12678e759f2949
+SHA256: 535f3a5eabf77e99339ec86209173e342849da684ae5fea402c366485f67ebf1
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
 
 Package: com.bvnsupport-fakex.little12
-Name: Little12
 Version: 1.2.3
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Filename: ./debs/com.bvnsupport-fakex.little12_1.2.3.deb
 Size: 114421
+MD5sum: 5ec6bf61da21e8cc5299e06414f1eaa8
+SHA1: 0f283b26e0ae673bae2068b5fe34cb94aa5f62c9
+SHA256: 59b8a6b60454c2dc06a67d05ac51a2bf5b1b734a0770a9292471086c2b31cbe1
 Section: Tweaks
-Maintainer: Nethra1n
-
-Package: com.fiore.calculatorhistory
-Name: CalculatorHistory
-Version: 1.3
-Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.fiore.calculatorhistory_1.3.deb
-Size: 46176
-Section: Tweaks
-Maintainer: Nethra1n
+Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
+Author: Ryan Nair
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Little12 Việt Hoá
+Sileodepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
 
 Package: com.bvnsupport-jailbreak.11cam14
-Name: 11Cam15
 Version: 0.0.11
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.bvnsupport-jailbreak.11cam14_0.0.11_iphoneos-arm.deb
 Size: 4932
+MD5sum: fc8f207a01da645d408c87b3d692d877
+SHA1: ba08850d0d441331fee37eea2336472600501960
+SHA256: c9610b04e071965a4eadbb1b328978171e7b5dadd5b89a09b9527d56f93439f4
 Section: Tweaks
-Maintainer: Nethra1n
+Description:
+   Tính Năng:
+ - 11Cam thêm Ứng dụng Camera của iPhone 11 vào iPhone của bạn
+ - Zom 10X
+ - Tương thích với iPhone SE-->iPhone X trên iOS 14
+Author: Michael Melita
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: 11Cam14 VH
 
-Package: com.skumarspace.videoloop
-Name: VideoLoop
-Version: 1.1
+Package: com.dvntm.cc18
+Version: 0.0.3
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.skumarspace.videoloop_1.1_iphoneos-arm.deb
-Size: 8486
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/com.dvntm.cc18_0.0.3_iphoneos-arm.deb
+Size: 4408
+MD5sum: 50327f6133ba1f1837f3aa4052878a24
+SHA1: 6da5f2f5b4aef49acbffb1e707eaaa89ea50fa26
+SHA256: 630f3c1148cb2f42ebd1daa198fb34e42681d1e15deebeecd947fd0934b7810f
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CC18/refs/heads/main/Sileo/icon.png
+Name: CC18
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/CC18/main/Sileo/depiction.json
 
-Package: com.nahtedetihw.artfull
-Name: Artfull
-Version: 1.2
+Package: com.fiore.calculatorconverter
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.nahtedetihw.artfull_1.2.deb
-Size: 31428
+Maintainer: fiore
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.calculatorconverter_1.0.1_iphoneos-arm.deb
+Size: 58624
+MD5sum: 9555266e9382873e3348fa684f790899
+SHA1: ed735e2a78161e481c94c05ce44eaa4ca1f8ebef
+SHA256: defbf4fe3ca11499d5962559f62f756a27bcf0d2952661c75198fab7ecfb59d9
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Add iOS 18 unit conversion to the Calculator app.
+Author: fiore
+Name: CalculatorConverter
 
-Package: com.uncore.dig3st
-Name: Dig3st
-Version: 1.0.0
+Package: com.fiore.calculatorhistory
+Version: 1.3
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
-Filename: ./debs/com.uncore.dig3st_1.0.0_iphoneos-arm.deb
-Size: 102784
+Maintainer: fiore
+Installed-Size: 436
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.calculatorhistory_1.3.deb
+Size: 46176
+MD5sum: 27db3dd3f4a0c4370e76aca7cb41dab9
+SHA1: b96fdf5a6f45e8a45952ca68492bc3399d634a94
+SHA256: 3352a42e35fb9551e111ae2ba15bd63aea8f6ee0a2e455842a5fa2bcaad24195
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Calculator gains history!
+Author: fiore
+Name: CalculatorHistory
 
 Package: com.icraze.darkpods
-Name: DarkPods
 Version: 2.1
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: iCraze
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.icraze.darkpods_2.1.deb
 Size: 2880
+MD5sum: fc1e63c6f20646bb0bc46fa0450bd06d
+SHA1: fd5f9e410e535140537a9b48b927f2b186666d30
+SHA256: 342607a735207f7d2d220e927df58329d7ffa35b59d1f2095b57ab324733e2b7
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Backport the iOS 17 AirPods popup to iOS 14-16
+Author: iCraze
+Name: DarkPods
+
+Package: com.nahtedetihw.artfull
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Ethan Whited
+Installed-Size: 268
+Filename: ./debs/com.nahtedetihw.artfull_1.2.deb
+Size: 31428
+MD5sum: 3ff03327667af9a75be98054df44e3e5
+SHA1: 1302c2180ee870c0b5e42da85ddb4eb91904f8d0
+SHA256: 507a9a3e580ad931881b8ecde0921af837554adfc9be5687aef21b12de6c70f3
+Section: Tweaks
+Description: Make the Apple Music app look like iOS 17!
+Author: Ethan Whited
+Name: ArtFull
 
 Package: com.ps.emozoom
-Name: EmoZoom
 Version: 1.0.2
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
+Installed-Size: 252
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.3), preferenceloader (>= 2.2.3)
 Filename: ./debs/com.ps.emozoom_1.0.2_iphoneos-arm.deb
 Size: 30318
+MD5sum: f76bcb4886adff11d7545c7c20fcf8fe
+SHA1: 93c653fb74c82fd8a13ebdbcb3d8ec58be21e2e1
+SHA256: f9d282eb97127b932365b6dd0ab9e4fe896b56d9499d8798dab7f4479e34e4ce
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Scale emoji size on iOS emoji keyboard.
+Tag: compatible_min::ios8.3
+Author: PoomSmart <unicorn03.glimmer@icloud.com>
+Depiction: https://chariz.com/get/emozoom
+Icon: https://img.chariz.cloud/icon/emozoom/icon@3x.png
+Name: EmoZoom
 
 Package: com.ps.recordpause
-Name: RecordPause
 Version: 2.0.7
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: PoomSmart
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
 Filename: ./debs/com.ps.recordpause_2.0.7_iphoneos-arm.deb
 Size: 20872
+MD5sum: 528123a78c10617ff759fdf98eec4814
+SHA1: 911786135b29b302318f68571fa887de874035af
+SHA256: 01389a374f201adcff3948b68d1278241899bac30f616364f4b6ce355b21f2e7
 Section: Tweaks
-Maintainer: Nethra1n
+Description: Pauses/resumes video recording in iOS Camera app.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/recordpause.html
+Name: RecordPause
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
+
+Package: com.skumarspace.videoloop
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 121
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.skumarspace.videoloop_1.1_iphoneos-arm.deb
+Size: 8486
+MD5sum: 6b5adc30dd5f7abf166c5d6588626132
+SHA1: 0014828c485903f4a337571c9dced3070b9d83a7
+SHA256: 63e01f1dd269eb166d1004445682adcd3fbc476455ca83ab423644a1edb431d8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoloopDp
+Description: allows looping in camera roll videos
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Skumar Space <Skumarspacex@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videoloopDp
+Dev: skumarspacex
+Name: VideoLoop
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.teslaman3092.popoutbuttons
-Name: PopOutButtons
 Version: 1.0.2
 Architecture: iphoneos-arm
-Description: Kho luu (application/vnd.debian.binary-package)
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.2.deb
 Size: 56438
+MD5sum: 0cd8aefa2c1b228df005063df6d08f40
+SHA1: ff7ac3a330fd84646c2eae8983fb091df284b5c3
+SHA256: 2789cf0b15872752eb38419990b6f977d54ca26f116615d37c210e4cf4357a0d
 Section: Tweaks
-Maintainer: Nethra1n
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
+Package: com.uncore.dig3st
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: uncore
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.uncore.dig3st_1.0.0_iphoneos-arm.deb
+Size: 102784
+MD5sum: 2d41ee80ecd7dfd6c6bc95dbffd3b062
+SHA1: 1e945c1bdcb7b2622ee320a12318cc37a7b67f08
+SHA256: ccc47965c418fae189828a793e8adb56fe4e2d93c0fb58f0b69c102f4bb2d07b
+Section: Tweaks
+Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
+Author: uncore
+Header: https:/uncore.me/api/media/file/banner.jpg
+Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
+Name: dig3st
+Sileodepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
+
