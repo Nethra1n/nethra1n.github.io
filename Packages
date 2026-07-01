@@ -1,0 +1,131 @@
+Package: com.82flex.singlemute
+Name: SingleMute
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Mute sound with ease.
+Maintainer: Trung <r9710994@gmail.com>
+Author: 82Flex
+Section: Tweaks
+Filename: debs/com.82flex.singlemute_1.7.deb
+Size: 15420
+
+Package: com.bvnsupport-fakex.little12
+Name: Little12
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: iPhone 11/12 gestures and features for older devices.
+Maintainer: Trung <r9710994@gmail.com>
+Author: BvN Support
+Section: Tweaks
+Filename: debs/com.bvnsupport-fakex.little12_1.2.3.deb
+Size: 124500
+
+Package: com.bvnsupport-jailbreak.11cam14
+Name: 11Cam14
+Version: 0.0.11
+Architecture: iphoneos-arm
+Description: iOS 14 camera style for older devices.
+Maintainer: Trung <r9710994@gmail.com>
+Author: BvN Support
+Section: Tweaks
+Filename: debs/com.bvnsupport-jailbreak.11cam14_0.0.11_iphoneos-arm.deb
+Size: 98410
+
+Package: com.fiore.calculatorconverter
+Name: CalculatorConverter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Converter extension for Calculator app.
+Maintainer: Trung <r9710994@gmail.com>
+Author: Fiore
+Section: Tweaks
+Filename: debs/com.fiore.calculatorconverter_1.0.1_iphoneos-arm.deb
+Size: 43210
+
+Package: com.fiore.calculatorhistory
+Name: CalculatorHistory
+Version: 1.3
+Architecture: iphoneos-arm
+Description: History log for Calculator app.
+Maintainer: Trung <r9710994@gmail.com>
+Author: Fiore
+Section: Tweaks
+Filename: debs/com.fiore.calculatorhistory_1.3.deb
+Size: 32150
+
+Package: com.icraze.darkpods
+Name: DarkPods
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Dark mode for AirPods popup.
+Maintainer: Trung <r9710994@gmail.com>
+Author: iCraze
+Section: Tweaks
+Filename: debs/com.icraze.darkpods_2.1.deb
+Size: 51200
+
+Package: com.nahtedetihw.artfull
+Name: ArtFull
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Full artwork on lockscreen.
+Maintainer: Trung <r9710994@gmail.com>
+Author: nahtedetihw
+Section: Tweaks
+Filename: debs/com.nahtedetihw.artfull_1.2.deb
+Size: 76400
+
+Package: com.ps.emozoom
+Name: EmoZoom
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Zoom emojis easily.
+Maintainer: Trung <r9710994@gmail.com>
+Author: PoomSmart
+Section: Tweaks
+Filename: debs/com.ps.emozoom_1.0.2_iphoneos-arm.deb
+Size: 18900
+
+Package: com.ps.recordpause
+Name: RecordPause
+Version: 2.0.7
+Architecture: iphoneos-arm
+Description: Pause camera recording.
+Maintainer: Trung <r9710994@gmail.com>
+Author: PoomSmart
+Section: Tweaks
+Filename: debs/com.ps.recordpause_2.0.7_iphoneos-arm.deb
+Size: 24500
+
+Package: com.skumarspace.videoloop
+Name: VideoLoop
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Loop videos in Photos app.
+Maintainer: Trung <r9710994@gmail.com>
+Author: S Kumar
+Section: Tweaks
+Filename: debs/com.skumarspace.videoloop_1.1_iphoneos-arm.deb
+Size: 15300
+
+Package: com.teslaman3092.popoutbuttons
+Name: PopoutButtons
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Cool popout effect for stock buttons.
+Maintainer: Trung <r9710994@gmail.com>
+Author: teslaman3092
+Section: Tweaks
+Filename: debs/com.teslaman3092.popoutbuttons_1.0.2.deb
+Size: 34100
+
+Package: com.uncore.dig3st
+Name: Dig3st
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Digest view for notifications.
+Maintainer: Trung <r9710994@gmail.com>
+Author: Unclutter
+Section: Tweaks
+Filename: debs/com.uncore.dig3st_1.0.0_iphoneos-arm.deb
+Size: 89200
