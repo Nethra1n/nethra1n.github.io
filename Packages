@@ -237,3 +237,23 @@ Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
 Name: dig3st
 Sileodepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
 
+Package: com.uncore.dig3st
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: uncore
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.idhihd.deb
+Size: 102784
+MD5sum: 2d41ee80ecd7dfd6c6bc95dbffd3b062
+SHA1: 1e945c1bdcb7b2622ee320a12318cc37a7b67f08
+SHA256: ccc47965c418fae189828a793e8adb56fe4e2d93c0fb58f0b69c102f4bb2d07b
+Section: Tweaks
+Description: Free tweak to summarize your notifications using any Openai endpoint, fully customizable.
+Author: uncore
+Header: https:/uncore.me/api/media/file/banner.jpg
+Icon: https://repo.uncore.me/depictions/web/com.uncore.dig3st/icon.png
+Name: 1001010
+Sileodepiction: https://repo.uncore.me/depictions/native/com.uncore.dig3st/depiction.json
+
+
