@@ -13,7 +13,7 @@ MD5sum: 1a2b3c4d5e6f7g8h9i0j
 Package: com.nethra1n.assitive26
 Name: Assitive26
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Phím trợ năng AssitiveTouch tùy biến nâng cao cho iOS 26.
 Maintainer: nethra1n <contact@nethra1n.com>
 Author: nethra1n
@@ -25,7 +25,7 @@ MD5sum: 1a2b3c4d5e6f7g8h9i0j
 Package: com.nethra1n.glasssearch
 Name: Glass Search
 Version: 1.2.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Giao diện tìm kiếm hiệu ứng kính mờ (Glassmorphism) siêu đẹp.
 Maintainer: nethra1n <contact@nethra1n.com>
 Author: nethra1n
@@ -37,7 +37,7 @@ MD5sum: 1a2b3c4d5e6f7g8h9i0j
 Package: com.nethra1n.ios26lunardate
 Name: iOS 26 Lunar Date
 Version: 1.0.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Hiển thị ngày âm lịch Việt Nam ngay trên màn hình khóa Lockscreen.
 Maintainer: nethra1n <contact@nethra1n.com>
 Author: nethra1n
@@ -49,7 +49,7 @@ MD5sum: 1a2b3c4d5e6f7g8h9i0j
 Package: com.nethra1n.relax1
 Name: Relax 1
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Chế độ thư giãn, ẩn bớt thông báo gây nhiễu khi làm việc.
 Maintainer: nethra1n <contact@nethra1n.com>
 Author: nethra1n

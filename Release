@@ -3,15 +3,15 @@ Label: nethra1n
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Kho chứa tweak jailbreak của nethra1n.
 MD5Sum:
- 13cf0ef0a35b2095238e42f86dfe456f 1665 Packages
- c45421a50a1273539f8b6f796845fcea 619 Packages.gz
+ 57a081072446a914a1b1962e9b2b1dee 1673 Packages
+ 86db1972c132d2e196e719fb6f83d134 616 Packages.gz
 SHA1:
- 013e660afc18b504a035702ba8b32741c2a54c23 1665 Packages
- 849bd5520b251ac6eeb3e16fd633b87feb5afa58 619 Packages.gz
+ 4a6c4fd6d1cd49b6d164c044832ebcbdc461dcfc 1673 Packages
+ 2de952b88e5e18cc8cb558c154ee664a236826de 616 Packages.gz
 SHA256:
- ffd59985beec43de5409540d2dffdaee3a0e518dc314f88ba79a1394864d2cf4 1665 Packages
- b835eff42902701e4182b92af3726c7834d012955a9583ddf82d7545ebce633c 619 Packages.gz
+ 3741cdf182ee625c9775dbd936e0671aee7547d5a051c76d52baf45550397c43 1673 Packages
+ 9dece7b6a67c57d1d4559bcf906604e900b1a809a897073ce582ecc4dac935cf 616 Packages.gz
