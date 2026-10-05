@@ -1,0 +1,66 @@
+# Lùi lại thư mục cha ~/Desktop/test
+cd ~/Desktop/test
+
+# Tạo file Packages với nội dung cấu hình chi tiết cho từng file .deb của bạn
+cat <<EOF > Packages
+Package: (Gl)assitive26
+Name: Assitive26
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Lười :) 
+Maintainer: nethra1n <contact@nethra1n.com>
+Author: nethra1n
+Section: Tweaks
+Filename: debs/assitive26.deb
+Size: $(stat -c%s debs/assitive26.deb)
+MD5sum: $(md5sum debs/assitive26.deb | awk '{print $1}')
+
+Package: glasssearch
+Name: Glass Search 
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: 
+Maintainer: nethra1n <contact@nethra1n.com>
+Author: nethra1n
+Section: Tweaks
+Filename: debs/glass.search.deb
+Size: $(stat -c%s debs/glass.search.deb)
+MD5sum: $(md5sum debs/glass.search.deb | awk '{print $1}')
+
+Package: ios26lunardate
+Name: iOS 26 Lunar Date
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Hiển thị ngày giờ như iOS 26
+Maintainer: nethra1n <contact@nethra1n.com>
+Author: nethra1n
+Section: Tweaks
+Filename: debs/ios26lunardate.deb
+Size: $(stat -c%s debs/ios26lunardate.deb)
+MD5sum: $(md5sum debs/ios26lunardate.deb | awk '{print $1}')
+
+Package: rainmhz
+Name: Rainmhz
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Description: ép xung hiệu năng, ko biết nữa :)) 
+Maintainer: nethra1n <contact@nethra1n.com>
+Author: nethra1n
+Section: Tweaks
+Filename: debs/rainmhz.deb
+Size: $(stat -c%s debs/rainmhz.deb)
+MD5sum: $(md5sum debs/rainmhz.deb | awk '{print $1}')
+
+Package: relax1
+Name: Relax
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Uhhh, That... Work? 
+Maintainer: nethra1n <contact@nethra1n.com>
+Author: nethra1n
+Section: Tweaks
+Filename: debs/relax1.deb
+Size: $(stat -c%s debs/relax1.deb)
+MD5sum: $(md5sum debs/relax1.deb | awk '{print $1}')
+EOF
+
